@@ -17,7 +17,7 @@
 </template>
 <script>
 export default {
-  name: 'ShowBook',
+  name: 'Door',
   data () {
     return {
       book: []
