@@ -1,7 +1,9 @@
 # mevn-stack
 
 > A Vue.js project
-
+## required steps
+create a .env file in the project root and add a connection string for either a local (mongo)db or a external one (mlab.com)
+that looks like this: `MURI="connectionstring"` this is also where you will put any other (development)environment variable's -production variables should be added in the production environment-
 ## commands
 
 ``` bash
